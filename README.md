@@ -29,5 +29,4 @@ npm run dev
 
 Open http://localhost:5173
 
-## Screenshot
-(Add a screenshot of your dashboard here)
+
